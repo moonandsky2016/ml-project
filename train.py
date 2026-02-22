@@ -1,1 +1,1 @@
-ECHO is on.
+print("Hello MASAI train")
